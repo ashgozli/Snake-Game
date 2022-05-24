@@ -126,6 +126,8 @@ public class GamePanel extends JPanel implements ActionListener {
 
         }
 
+
+
         // Establishing our directions using the x&y coordinates
         switch (direction){
             case 'U':
